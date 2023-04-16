@@ -18,17 +18,17 @@ The `FormData` object is configured with the OpenAI Whisper model and the select
 
 ### Installation
 - Clone the repository to your local machine.
-```sh
+```cmd
     git clone https://github.com/KuNDevQ/OpenAI-Whisper-API.git
 ```
 
 - Navigate to the project directory in your terminal.
-```sh
+```cmd
     cd OpenAI-Whisper-API
 ```
 
 - Install the project dependencies.
-```sh
+```cmd
     npm install
 ```
 
@@ -37,7 +37,7 @@ The `FormData` object is configured with the OpenAI Whisper model and the select
     * For macOS or Linux: export OPENAI_API_KEY=your_api_key_here
 
 - Start the server.
-```sh
+```cmd
     npm start
 ```
 
